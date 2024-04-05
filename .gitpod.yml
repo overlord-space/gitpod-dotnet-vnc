@@ -1,4 +1,4 @@
-image: workspace-full-vnc
+image: gitpod/workspace-full-vnc
 
 tasks:
   - name: Restore & Build
