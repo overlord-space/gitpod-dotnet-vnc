@@ -13,3 +13,9 @@ tasks:
 vscode:
   extensions:
     - muhammad-sammy.csharp
+    - al3xdev.gitpod-vnc
+
+ports:
+    # vnc
+  - port: 6080
+    onOpen: open-preview
