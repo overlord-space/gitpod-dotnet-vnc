@@ -1,5 +1,4 @@
-image:
-  file: .gitpod.Dockerfile
+image: ghcr.io/overlord-space/gitpod-dotnet-vnc
 
 tasks:
   - name: Restore & Build
